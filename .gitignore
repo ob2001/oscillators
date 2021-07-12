@@ -1,0 +1,7 @@
+*.txt
+*.docx
+*.tmp
+*.c
+*.exe
+pyCodeSnippets.py
+doublePendulum_Skeleton.py
