@@ -1,8 +1,5 @@
-*.txt
 *.docx
 *.tmp
-*.c
 *.exe
 .vscode
-pyCodeSnippets.py
 doublePendulum_Skeleton.py
