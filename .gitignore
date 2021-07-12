@@ -1,5 +1,6 @@
 *.docx
 *.tmp
 *.exe
+.vs
 .vscode
 doublePendulum_Skeleton.py
