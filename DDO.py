@@ -13,8 +13,7 @@ import matplotlib.animation as animation
 "2. Define functions"
 # Define a periodic function pushing the oscillator
 def push(t, A = 1, w = 1, phi = 0):
-    result = A*np.cos(t*w - phi)
-    return result
+    return A*np.cos(t*w - phi)
 
 # Used in the animation, updates the position of the oscillator and the length of the spring
 def streak(t, r1, r2):
